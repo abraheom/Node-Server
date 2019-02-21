@@ -1,0 +1,44 @@
+html, body {
+	background: #f1f2f6;
+}
+h1 {
+	font-family: arial;
+	margin: auto;
+	text-align: center;
+	padding: 0px;
+	width: 200px;
+}
+.title1 {
+	font-size: 10px;
+	color: #A86454;
+	float: right;
+}
+.link-pug {
+	display: block;
+	margin: auto;
+	font-family: arial;
+	width: 100px;
+	text-align: center;
+	cursor: pointer;
+	color: #1abc9c;
+	font-weight: bold;
+	text-decoration: none;
+	text-decoration: underline;
+}
+.title2 {
+	display: block;
+	font-family: arial;
+	color: #1abc9c;
+	font-weight: bold;
+}
+.paragraph {
+	display: block;
+	width: 800px;
+	margin:20px auto;
+	padding: 10px;
+	background: #fff;
+	box-shadow: 2px 2px 3px #aaa;
+	border-radius: 2px;
+	font-family: calibri;
+	text-align: justify;
+}
